@@ -29,7 +29,8 @@ The goal of this project is to help ease the process of drilling should you want
  * 5mm universal wood drill bit, and a power drill
  * 12pcs of M5 x 35mm (or longer) countersink bolts for fixing the guides on the deck
  * 12pcs of M5 nuts and flat washers
- ![](./pic/wood_drill_bit.png)
+ 
+ ![wood drill bit](./pic/wood_drill_bit.png)
  
  ### Usage Guide
  * It's pretty straight forward - fix the drilling guides on the deck with the M5 countersink bolts, nuts and washers.

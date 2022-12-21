@@ -4,8 +4,7 @@ This project is inspired by Reddit user [u/hibri808](https://www.reddit.com/user
 
 ![u/hibri808's board](https://preview.redd.it/pr8el15y5yf91.jpg?width=960&crop=smart&auto=webp&s=cc77650a795f973a9071d486941262f13e161712)
 
-* I own a bunch of surfskates - Carver, Yow, Smoothstar etc.  The Swelltech is always my goto choice for flat ground riding.  In fact I couldn't pump properly until I rode a Swelltech.
-Many other Swelltech users complained about the deck being too narrow at the tail, or the kick being too flat, or the traction pad being not comfortable.
+* The Swelltech is always my goto choice for flat ground riding.  Many other Swelltech users complained about the deck being too narrow at the tail, or the kick being too flat, or the traction pad being not comfortable.
 I personally don't have a strong opinion about the deck but am curious about trying a Swelltech with a smaller wheelbase, and it's always good to have more real estate for the feet.
 So as soon as I came across that post on Reddit, I decided to give it a shot.  Again thanks to u/hibri808 who answered my many questions, and this project is the fruit of his wisdom and experience, plus a little fine-tuning of my own.
 
@@ -15,8 +14,11 @@ The goal of this project is to help ease the process of drilling should you want
   2. 20.5", equivalent to the Italo Air model.
   3. 21", equivalent to the J.O.B Pipeline model.
   4. 21.5", equivalent to the Hybrid Camo or O'san model.
+  
+![front guide](./pic/front.png)
+![rear guide](./pic/rear.png)
  
- ### 3D printing settings
+ ### 3D Printing Settings
  * Print the files under the `STLs` folder.
  * Recommended filament: PLA
  * No support needed
